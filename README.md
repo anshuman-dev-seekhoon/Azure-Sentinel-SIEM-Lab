@@ -1,4 +1,4 @@
-# Real-Time Cyber Attack Detection & Analysis using Azure Sentinel + KQL 🚀🔍🌍
+# Real-Time Cyber Attack Detection & Analysis using Azure Sentinel + KQL by building a Cyber Home Lab 🚀🔍🌍
 
 ![Dashboard Screenshot](screenshots)
 
