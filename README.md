@@ -1,6 +1,6 @@
 # Real-Time Cyber Attack Detection & Analysis using Azure Sentinel + KQL 🚀🔍🌍
 
-![Dashboard Screenshot](screenshots/workbook_geolocation_tracking.jpg)
+![Dashboard Screenshot](screenshots)
 
 ## 🔧 Project Overview
 This project showcases a **real-time cyber attack detection and analysis lab** using Microsoft Sentinel (formerly Azure Sentinel). It simulates and monitors live cyber threats by leveraging a honeypot VM, custom log analytics, and KQL-based threat analysis. This SIEM lab helped in understanding threat patterns and building skills in security monitoring, threat hunting, and log data enrichment.
